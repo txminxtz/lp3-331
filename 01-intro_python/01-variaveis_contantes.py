@@ -40,17 +40,17 @@ PI = 3,14
 # docstring (comentario de documentaçao)
 # documentar classe, modulos, funções, ...
 
-    static somar(double numero1, double numero2){
-        return numero1 + numero2
-    }
+static somar(double numero1, double numero2){
+    return numero1 + numero2
+}
 
-    def somar(numero1, numero2):
-        '''
-        funcao que soma dois numeros 
-        :param numero1: primeiro numero
-        :param numeros: segundo numero
-        :return: a soma dos numeros
-        '''
+def somar(numero1, numero2):
+    '''
+    funcao que soma dois numeros 
+    :param numero1: primeiro numero
+    :param numeros: segundo numero
+    :return: a soma dos numeros
+    '''
 
-        return numero1 + numero2
-        
+    return numero1 + numero2
+    
